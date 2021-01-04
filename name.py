@@ -1,2 +1,2 @@
-name="athira and anu"
+name=input("Enter a name")
 print(name)
